@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello!+I'm+Jeff+Harris.;I+am+a+Front-End+Developer.)](https://git.io/typing-svg)
 
+- 🌱 I’m currently learning React. It has been fun and challenging so far. I'm looking forward to honing my Front-End skills even more.
+- 📫 How to reach me: jfharris1983@gmail.com 
+- ⚡ Fun fact: I've been chased by a grizzly bear and I have snuck in to the White House.
 <!--
 **JfHarris/JfHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
