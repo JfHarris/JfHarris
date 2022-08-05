@@ -5,6 +5,7 @@
 - ⚡ Fun fact: I've been chased by a grizzly bear and I have snuck in to the White House.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jfharris)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=radical&show_icons=true)
 <!--
 **JfHarris/JfHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
